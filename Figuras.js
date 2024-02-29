@@ -24,3 +24,4 @@ break;
         alert("La opcion seleccionada no es valida")
         break;
 }
+/*Codigo para encotrar areas de figuras*/
